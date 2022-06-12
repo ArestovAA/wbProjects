@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function render() {
     const list = document.getElementById("list");
     let result = "";
-
+//ну да
     for (let item of data.hits){
         result +=
             `<div class="item">
